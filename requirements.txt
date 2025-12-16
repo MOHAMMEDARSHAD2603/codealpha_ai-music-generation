@@ -1,0 +1,8 @@
+torch
+torchvision
+matplotlib
+music21
+streamlit
+pyfluidsynth
+pygame
+numpy
